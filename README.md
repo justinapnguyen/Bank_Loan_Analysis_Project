@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="Bank_Loan_Image.png" alt="Bank Loan Image" width="500px" height="500px">
+</p>
+
 # Bank Loan Analysis Project
 
 ## Project Overview
