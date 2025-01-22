@@ -5,7 +5,7 @@
 # Bank Loan Analysis Project
 
 ## Project Overview
-This project involves analyzing bank loan data using SQL and Tableau to derive insights and visualize key metrics. The main objectives are to identify trends, track sales performance, and provide a comprehensive overview of business operations
+This project involves analyzing bank loan data using SQL and Tableau to derive insights and visualize key metrics. The main objective is to analyze borrower characteristics, evaluate risk factors, and gain valuable insights into the loan approval process, enabling more informed decision-making for strategic banking initiatives.
 
 ## Tools and Technologies
 **SQL**: For querying the database to extract and manipulate data.<br>
